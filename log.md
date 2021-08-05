@@ -15,3 +15,11 @@
 **Thoughts:** Still confused about mocking and stubbing. I would like to understand how to write unit tests for api's.
 
 **Link to work:** [Weather App](https://github.com/maxmilpro/weather-app)
+
+### Day 2: August 4, 2021
+
+**Today's Progress:** Refactored controller to correctly parse and format forecast on the server before sending to client. Completed basic retrieval and rendering data on the client.
+
+**Thoughts:** I was originally unsure if I should format all of the data before sending it to the client or send the raw data and let the client handle. Feels more intuitive to format data on server before sending to client. Good practice for API development.
+
+**Link to work:** [Weather App](https://github.com/maxmilpro/weather-app)
