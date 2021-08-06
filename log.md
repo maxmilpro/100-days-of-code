@@ -23,3 +23,11 @@
 **Thoughts:** I was originally unsure if I should format all of the data before sending it to the client or send the raw data and let the client handle. Feels more intuitive to format data on server before sending to client. Good practice for API development.
 
 **Link to work:** [Weather App](https://github.com/maxmilpro/weather-app)
+
+### Day 3: August 5, 2021
+
+**Today's Progress:** Tackled an algo/data structure problem on LeetCode
+
+**Thoughts:** I need to do more practice problems. There are clearly repeatable/reusable strategies that I need to get more familiar with.
+
+**Link to work:** [LeetCode Repo](https://github.com/maxmilpro/leetCode)
