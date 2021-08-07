@@ -31,3 +31,11 @@
 **Thoughts:** I need to do more practice problems. There are clearly repeatable/reusable strategies that I need to get more familiar with.
 
 **Link to work:** [LeetCode Repo](https://github.com/maxmilpro/leetCode)
+
+### Day 4: August 6, 2021
+
+**Today's Progress:** Started to add style to my weather app
+
+**Thoughts:** My understanding of front end styling is very limited. I'm pretty behind in this area. Probably an area worth spending more time.
+
+**Link to work:** [Weather App](https://github.com/maxmilpro/weather-app)
