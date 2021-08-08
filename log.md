@@ -39,3 +39,11 @@
 **Thoughts:** My understanding of front end styling is very limited. I'm pretty behind in this area. Probably an area worth spending more time.
 
 **Link to work:** [Weather App](https://github.com/maxmilpro/weather-app)
+
+### Day 5: August 7, 2021
+
+**Today's Progress:** Tackled an algo/data structure problem on LeetCode. combinationSum and backtracking
+
+**Thoughts:** Backtacking makes a lot of sense conceptually. I think I can explain how it works to someone else. Implementing is tricky. Combination sum added an interesting wrinkle by allowing duplicate values.
+
+**Link to work:** [LeetCode Repo](https://github.com/maxmilpro/leetCode)
