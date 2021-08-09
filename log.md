@@ -47,3 +47,11 @@
 **Thoughts:** Backtacking makes a lot of sense conceptually. I think I can explain how it works to someone else. Implementing is tricky. Combination sum added an interesting wrinkle by allowing duplicate values.
 
 **Link to work:** [LeetCode Repo](https://github.com/maxmilpro/leetCode)
+
+### Day 6: August 8, 2021
+
+**Today's Progress:** Tackled an algo/data structure problem on LeetCode. Had to find subsets from an array of numbers
+
+**Thoughts:** Need to practice for data srructure algorithms
+
+**Link to work:** [LeetCode Repo](https://github.com/maxmilpro/leetCode)
